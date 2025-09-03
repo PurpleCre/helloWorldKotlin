@@ -8,16 +8,15 @@ The purpose of this software is to setup Kotlin in vscode and making sure it wor
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Kotlin Hello World Demo Video](https://www.youtube.com/watch?v=ujbLxYFL5Vs)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used vscode as my IDE, brew to setup tools for kotlin, and github for codebase.
 
-{Describe the programming language that you used}
+Kotlin is a modern alternative to java, it is mainly used for android developmnet but is a fully functional object-oriented programming language. 
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [in-kotlin.com](https://in-kotlin.com/ide/vscode/setup-vscode-for-kotlin-development/#google_vignette)
